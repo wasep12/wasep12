@@ -13,20 +13,20 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **RFID-based Attendance IoT Project**
+- 🌱 I'm currently learning **React technology and Artificial Intelligence**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Web Development, JavaScript, React, Node.js**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about yourself]**
+- 📫 How to reach me: **wasep.aziz@skt-global.co.id**
+- ⚡ Fun fact: **My curiosity in technology often keeps me awake late at night experimenting with new frameworks.**
 
 <details>
   <summary>More about me</summary>
   <ul>
-    <li>🎓 Graduated in [Your Education]</li>
-    <li>🌍 Based in [Your Location]</li>
-    <li>🏢 Currently working at [Your Workplace]</li>
-    <li>🚀 Passionate about creating seamless user experiences</li>
+    <li>🎓 Graduated in Computer Systems from Universitas Pamulang</li>
+    <li>🌍 Based in Pandeglang, Indonesia</li>
+    <li>🏢 Currently working at PT SKT Global Indonesia</li>
+    <li>🚀 Passionate about IoT, Web Development, and Full Stack Development</li>
   </ul>
 </details>
 
@@ -77,19 +77,6 @@
   </a>
 </div>
 
-## 🚀 Recent Projects
-
-### Project Name 1
-- **Description**: A brief description of your project
-- **Tech Stack**: React, Node.js, MongoDB
-- **Live Demo**: [Link to Demo](https://yourproject.com)
-- **GitHub**: [Link to Repository](https://github.com/wasep12/project1)
-
-### Project Name 2
-- **Description**: A brief description of your project
-- **Tech Stack**: Next.js, Tailwind CSS, PostgreSQL
-- **Live Demo**: [Link to Demo](https://yourproject.com)
-- **GitHub**: [Link to Repository](https://github.com/wasep12/project2)
 
 ## 📊 Weekly Development Breakdown
 
