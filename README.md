@@ -56,6 +56,4 @@ I'm a **Full-Stack Developer** passionate about building scalable digital infras
   <a href="https://www.linkedin.com/in/wasep-abdul-aziz-54410a24a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<div align="center" style="margin-top: 30px; font-size: 12px; color: #888;">
-  <p>Built with ❤️ by Ulik Agent</p>
-</div>
+
