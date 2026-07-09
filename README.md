@@ -1,7 +1,3 @@
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/wasep12/wasep12/blob/main/assets/header_gif.gif?raw=true" alt="Anime Header" style="width: 100%; max-width: 400px;" />
-</div>
-
 <div align="center">
   <h1>Hi, I'm Wasep Abdul Aziz 👋</h1>
   <p><i>Full-Stack Dev | Web Developer | IoT Explorer</i></p>
@@ -46,7 +42,7 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
 
 ---
 
-## 🏗️ Core Focus Summary
+## 🏗️ Core Focus
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://camo.githubusercontent.com/ac81f9a6080c4b58403b408e249c813a7b461f13af675b4c35ec7b495d795e22/68747470733a2f2f6d656469612e74656e6f722e636f6d2f38416c395454373832505141414141432f6d6974737568612d6d6979616d697a752e676966" alt="Core Focus GIF" style="width: 100%; max-width: 600px;" />
 </div>
@@ -60,11 +56,20 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
 
 ---
 
-## 🔧 Tech Stack
+## 🏴‍☠️ Mugiwara Crew Philosophy
+> "I'm going to be the King of the Pirates!" — *Monkey D. Luffy*
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/wasep12/wasep12/blob/main/assets/sanji_cooking.gif?raw=true" alt="Sanji Cooking GIF" style="width: 100%; max-width: 600px;" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/mugiwara.gif?raw=true" alt="Mugiwara Crew" style="width: 100%; max-width: 600px;" />
 </div>
+
+<p align="center">
+  <em>"We are not just a crew; we are a family. Each of us has a dream, and we protect each other's paths to make those dreams come true."</em>
+</p>
+
+---
+
+## 🔧 Tech Stack
 
 ### 🎨 Frontend
 <div align="center">
@@ -84,6 +89,7 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
   <a href="https://github.com/wasep12"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+## 🎬 Closing
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github.com/wasep12/wasep12/blob/main/assets/luffy_new.gif?raw=true" alt="Luffy Anime GIF" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/to_be_continued.gif?raw=true" alt="To Be Continued" style="width: 100%; max-width: 400px;" />
 </div>
