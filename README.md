@@ -55,13 +55,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,git,linux,vscode" />
 </div>
 
----
 
-## 🛡️ Network Security Reference
-*I highly recommend checking this ultimate self-hosted network security guide:*
-> **[AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)**
-
----
 
 <div align="center">
   <h3>✨ Let's connect!</h3>
@@ -69,6 +63,4 @@
   <a href="https://github.com/wasep12"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<div align="center" style="margin-top: 30px; font-size: 12px; color: #888;">
-  <p>Built with ❤️ by Ulik Agent | Powered by Coffee & Code</p>
-</div>
+
