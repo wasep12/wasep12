@@ -9,9 +9,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
 </div>
 
-<!-- GIF Rick and Morty -->
+<!-- GIF Section -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://github.com/wasep12/wasep12/blob/main/assets/luffy_header.gif?raw=true" alt="Luffy Header" style="width: 100%; max-width: 800px;" />
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Additional GIF" style="width: 100%; max-width: 800px; margin-top: 10px;" />
 </div>
 
 ---
