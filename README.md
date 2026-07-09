@@ -30,6 +30,9 @@
     <li>🌍 Based in Pandeglang, Indonesia</li>
     <li>🏢 Currently working at PT SKT Global Indonesia</li>
   </ul>
+  <div align="center" style="margin-top: 15px;">
+    <img src="https://user-images.githubusercontent.com/80265459/154730574-445f834a-4d18-44ae-b912-e33bab676914.gif" alt="About Me GIF" style="width: 100%; max-width: 400px;" />
+  </div>
 </details>
 
 ---
