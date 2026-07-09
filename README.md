@@ -2,11 +2,11 @@
   <h1>Hi, I'm Wasep Abdul Aziz 👋</h1>
   <p><i>Full-Stack Dev | Web Developer | IoT Explorer</i></p>
 
-  <!-- Typing SVG for Skills below the name -->
+  <!-- Typing SVG for Skills -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2986CC&width=600&center=true&vCenter=true&lines=Full-Stack+Web+Development;IoT+Architecture;Backend+Systems;AI+Integration" />
 
-  <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
+  <!-- Fixed Header Image (Increased Height) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
 </div>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
@@ -40,13 +40,6 @@
 ### ⚙️ Backend & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,git,linux,vscode" />
-</div>
-
----
-
-## ⚡ Coding Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasep12&theme=radical&area=true&hide_border=true&custom_title=Coding+Activity" />
 </div>
 
 ---
