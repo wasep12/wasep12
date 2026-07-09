@@ -18,19 +18,17 @@
 ---
 
 ## 💫 About Me
-- 🔭 I'm currently working on **RFID-based Attendance IoT Project**
-- 🌱 I'm currently learning **React technology and Artificial Intelligence**
-- 💬 Ask me about **Web Development, JavaScript, React, Node.js**
-- 📫 How to reach me: **wasep.aziz@skt-global.co.id**
+Hi, I'm **Wasep Abdul Aziz**. I believe that technology is more than just syntax; it's a bridge to solve real-world problems. My passion lies in building digital foundations that are efficient, scalable, and human-centered.
 
-<details>
-  <summary><b>More about me</b></summary>
-  <ul>
-    <li>🎓 Graduated in Computer Systems from Universitas Pamulang</li>
-    <li>🌍 Based in Pandeglang, Indonesia</li>
-    <li>🏢 Currently working at PT SKT Global Indonesia</li>
-    <br>
-    <img src="https://user-images.githubusercontent.com/80265459/154730574-445f834a-4d18-44ae-b912-e33bab676914.gif" alt="About Me GIF" style="width: 100%; max-width: 400px;" />
+Currently, I'm obsessed with bridging the physical and digital world through **IoT integration** while polishing my craft in **Modern Web Development**. I thrive on turning complex business requirements into clean, structured, and performant code.
+
+- 🏗️ **Core Focus:** Building high-impact digital infrastructure & IoT solutions.
+- 🚀 **Current Mission:** Automating operational efficiency with RFID-based Attendance IoT Project.
+- 🧠 **Always Building:** From AI-assisted workflows to robust backend architecture.
+- 🤝 **Open to:** Collaborating on projects that challenge status quo and drive innovation.
+
+*“Duduk dulu, mikir dulu. Koding itu alat, bukan tujuan.”*
+
   </ul>
 </details>
 
