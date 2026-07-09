@@ -1,3 +1,7 @@
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/header_gif.gif?raw=true" alt="Anime Header" style="width: 100%; max-width: 400px;" />
+</div>
+
 <div align="center">
   <h1>Hi, I'm Wasep Abdul Aziz 👋</h1>
   <p><i>Full-Stack Dev | Web Developer | IoT Explorer</i></p>
