@@ -2,20 +2,24 @@
   <h1>Hi, I'm Wasep Abdul Aziz 👋</h1>
   <p><i>Full-Stack Dev | Web Developer | IoT Explorer</i></p>
 
-  <!-- Typing SVG for Skills -->
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2986CC&width=600&center=true&vCenter=true&lines=Full-Stack+Web+Development;IoT+Architecture;Backend+Systems;AI+Integration" />
 
-  <!-- Fixed Header Image (Increased Height) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
-</div>
-
-<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true&custom_title=Developer+Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasep12&theme=radical&hide_border=true" />
+  <!-- Header Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true" />
+  <h2>📊 Contribution Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasep12&theme=radical&hide_border=true&cache_seconds=86400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h3>⚡ Coding Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasep12&theme=radical&area=true&hide_border=true&custom_title=Coding+Activity" />
 </div>
 
 ---
