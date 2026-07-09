@@ -38,6 +38,7 @@
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://camo.githubusercontent.com/ac81f9a6080c4b58403b408e249c813a7b461f13af675b4c35ec7b495d795e22/68747470733a2f2f6d656469612e74656e6f722e636f6d2f38416c395454373832505141414141432f6d6974737568612d6d6979616d697a752e676966" alt="Core Focus GIF" style="width: 100%; max-width: 600px;" />
 </div>
+
 | Area | What I Build |
 | :--- | :--- |
 | **Digital Infrastructure** | Core platforms, dashboards, internal business systems |
@@ -59,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,git,linux,vscode" />
 </div>
 
-
+---
 
 <div align="center">
   <h3>✨ Let's connect!</h3>
@@ -70,5 +71,3 @@
 <div align="center" style="margin-top: 30px;">
   <img src="https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/preview.gif" alt="One Piece Theme" style="width: 100%; max-width: 800px;" />
 </div>
-
-
