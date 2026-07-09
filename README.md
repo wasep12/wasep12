@@ -1,10 +1,16 @@
 <div align="center">
-  <!-- Nama Animasi rata tengah -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2986CC&width=435&lines=Wasep+Abdul+Aziz;Web+Developer;Tech+Explorer" />
+  <!-- Nama Bergerak Lebih Besar & Rata Tengah -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=2986CC&width=600&lines=Wasep+Abdul+Aziz;Full-Stack+Developer;Tech+Explorer" />
+  
   <p><i>Full-Stack Dev | UI/UX Enthusiast | IoT Explorer</i></p>
 
-  <!-- Image pengganti gambar yang rusak/tidak muncul -->
+  <!-- Building Digital Solutions (Tetap) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=30&animation=fadeIn" alt="Building Digital Solutions" />
+</div>
+
+<!-- GIF Anime One Piece Full Width -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4JmlcPWh0dHBzOi8vbWVkaWEuZ2lwaHkuY29tL21lZGlhL3YxLllDZDhjNTk5NHJ4ZzVqbmR6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4JmZzPWdpcGh5LmpwZyZjdD1n/MhHk6YJ40qXW0/giphy.gif" alt="One Piece Luffy" width="100%" />
 </div>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
@@ -31,7 +37,14 @@
 - 💬 Ask me about **Web Development, JavaScript, React, Node.js**
 - 📫 How to reach me: **wasep.aziz@skt-global.co.id**
 
----
+<details>
+  <summary><b>More about me</b></summary>
+  <ul>
+    <li>🎓 Graduated in Computer Systems from Universitas Pamulang</li>
+    <li>🌍 Based in Pandeglang, Indonesia</li>
+    <li>🏢 Currently working at PT SKT Global Indonesia</li>
+  </ul>
+</details>
 
 ## 🔧 Tech Stack
 <div align="center">
