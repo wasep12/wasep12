@@ -58,6 +58,10 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
 
 ## 🔧 Tech Stack
 
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/sanji_cooking.jpg?raw=true" alt="Sanji Cooking" style="width: 100%; max-width: 600px;" />
+</div>
+
 ### 🎨 Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
