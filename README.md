@@ -39,15 +39,20 @@
 
 ## 🏗️ Core Focus
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://camo.githubusercontent.com/ac81f9a6080c4b58403b408e249c813a7b461f13af675b4c35ec7b495d795e22/68747470733a2f2f6d656469612e74656e6f722e636f6d2f38416c395454373832505141414141432f6d6974737568612d6d6979616d697a752e676966" alt="Core Focus GIF" style="width: 100%; max-width: 600px;" />
-</div>
 
-| Area | What I Build |
-| :--- | :--- |
-| **Digital Infrastructure** | Core platforms, dashboards, internal business systems |
-| **IoT & Integration** | RFID systems, smart attendance, sensor data processing |
-| **System Architecture** | Database design, backend logic, scalable app structure |
-| **Web Development** | Fast, modern, and user-centric web applications |
+  ---
+
+  ## 🏴‍☠️ Mugiwara Crew Philosophy
+  > "I'm going to be the King of the Pirates!" — *Monkey D. Luffy*
+
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://github.com/wasep12/wasep12/blob/main/assets/mugiwara.gif?raw=true" alt="Mugiwara Crew" style="width: 100%; max-width: 600px;" />
+  </div>
+
+  <p align="center">
+    <em>"We are not just a crew; we are a family. Each of us has a dream, and we protect each other's paths to make those dreams come true."</em>
+  </p>
+
 
 ---
 
