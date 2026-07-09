@@ -8,10 +8,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
 </div>
 
-<!-- GIF One Piece (Alternatif Link) -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4JmlcPWh0dHBzOi8vbWVkaWEuZ2lwaHkuY29tL21lZGlhL3YxLllDZDhjNTk5NHJ4ZzVqbmR6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4JmZzPWdpcGh5LmpwZyZjdD1n/MhHk6YJ40qXW0/giphy.gif" alt="One Piece" style="width: 100%; max-width: 800px;" />
+  <h3>📊 Developer Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasep12&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true" />
 </div>
+
+---
+
+## 🚀 About Me
+- 🔭 I'm currently working on **RFID-based Attendance IoT Project**
+- 🌱 I'm currently learning **React technology and Artificial Intelligence**
+- 💬 Ask me about **Web Development, JavaScript, React, Node.js**
+- 📫 How to reach me: **wasep.aziz@skt-global.co.id**
+
+---
+
+## 🏗️ Core Focus
+| Area | What I Build |
+| :--- | :--- |
+| **Digital Infrastructure** | Core platforms, dashboards, internal business systems |
+| **IoT & Integration** | RFID systems, smart attendance, sensor data processing |
+| **System Architecture** | Database design, backend logic, scalable app structure |
+| **Web Development** | Fast, modern, and user-centric web applications |
 
 ---
 
@@ -22,20 +43,10 @@
 
 ---
 
-## 💫 About Me
-- 🔭 I'm currently working on **RFID-based Attendance IoT Project**
-- 🌱 I'm currently learning **React technology and Artificial Intelligence**
-- 💬 Ask me about **Web Development, JavaScript, React, Node.js**
-- 📫 How to reach me: **wasep.aziz@skt-global.co.id**
-
-<details>
-  <summary><b>More about me</b></summary>
-  <ul>
-    <li>🎓 Graduated in Computer Systems from Universitas Pamulang</li>
-    <li>🌍 Based in Pandeglang, Indonesia</li>
-    <li>🏢 Currently working at PT SKT Global Indonesia</li>
-  </ul>
-</details>
+## ⚡ Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasep12&theme=radical&area=true&hide_border=true&custom_title=Coding+Activity" />
+</div>
 
 ---
 
