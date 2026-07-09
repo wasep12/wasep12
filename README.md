@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- Nama Bergerak (Ukuran Besar, Rata Tengah) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=2986CC&width=600&lines=Wasep+Abdul+Aziz;Full-Stack+Developer;Tech+Explorer" />
-  
+  <!-- Greeting Utama -->
+  <h1>Hi, I'm Wasep Abdul Aziz 👋</h1>
   <p><i>Full-Stack Dev | UI/UX Enthusiast | IoT Explorer</i></p>
 
   <!-- Header Image -->
@@ -10,19 +9,13 @@
 
 <div align="center" style="margin-top: 20px;">
   <h3>📊 Developer Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true&custom_title=Developer+Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasep12&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true" />
 </div>
 
----
-
-## 🚀 About Me
-- 🔭 I'm currently working on **RFID-based Attendance IoT Project**
-- 🌱 I'm currently learning **React technology and Artificial Intelligence**
-- 💬 Ask me about **Web Development, JavaScript, React, Node.js**
-- 📫 How to reach me: **wasep.aziz@skt-global.co.id**
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
@@ -37,8 +30,15 @@
 ---
 
 ## 🔧 Tech Stack
+
+### 🎨 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
+</div>
+
+### ⚙️ Backend & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,git" />
 </div>
 
 ---
@@ -47,6 +47,23 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasep12&theme=radical&area=true&hide_border=true&custom_title=Coding+Activity" />
 </div>
+
+---
+
+## 💫 About Me
+- 🔭 I'm currently working on **RFID-based Attendance IoT Project**
+- 🌱 I'm currently learning **React technology and Artificial Intelligence**
+- 💬 Ask me about **Web Development, JavaScript, React, Node.js**
+- 📫 How to reach me: **wasep.aziz@skt-global.co.id**
+
+<details>
+  <summary><b>More about me</b></summary>
+  <ul>
+    <li>🎓 Graduated in Computer Systems from Universitas Pamulang</li>
+    <li>🌍 Based in Pandeglang, Indonesia</li>
+    <li>🏢 Currently working at PT SKT Global Indonesia</li>
+  </ul>
+</details>
 
 ---
 
