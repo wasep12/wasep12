@@ -12,6 +12,7 @@
 <!-- GIF Rick and Morty -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" alt="Rick and Morty" style="width: 100%; max-width: 800px;" />
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Additional GIF" style="width: 100%; max-width: 800px; margin-top: 10px;" />
 </div>
 
 ---
