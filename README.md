@@ -72,5 +72,5 @@
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/preview.gif" alt="One Piece Theme" style="width: 100%; max-width: 800px;" />
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/luffy.jpg?raw=true" alt="Luffy Anime" style="width: 100%; max-width: 600px;" />
 </div>
