@@ -63,4 +63,8 @@
   <a href="https://github.com/wasep12"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+<div align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/preview.gif" alt="One Piece Theme" style="width: 100%; max-width: 800px;" />
+</div>
+
 
