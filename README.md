@@ -9,9 +9,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
 </div>
 
-<!-- GIF Anime -->
+<!-- GIF One Piece -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBTBW/giphy.gif" alt="Anime GIF" style="width: 100%; max-width: 800px;" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBTBW/giphy.gif" alt="One Piece" style="width: 100%; max-width: 800px;" />
 </div>
 
 ---
@@ -54,6 +54,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,git,linux,vscode" />
 </div>
+
+---
+
+## 🛡️ Network Security Reference
+*I highly recommend checking this ultimate self-hosted network security guide:*
+> **[AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)**
 
 ---
 
