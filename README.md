@@ -1,11 +1,20 @@
 <div align="center">
-  <h1 style="border: 4px solid #000; padding: 10px; display: inline-block;">WASEP ABDUL AZIZ</h1>
-  <p><i>Full-Stack Web Dev | IoT Explorer</i></p>
+  <!-- Nama Animasi -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000&width=435&lines=Wasep+Abdul+Aziz;Web+Developer;Tech+Explorer" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <p><i>Full-Stack Dev | UI/UX Enthusiast | IoT Explorer</i></p>
 </div>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <!-- Stats dengan Animasi -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wasep12&show_icons=true&theme=radical&hide_border=true&custom_title=Developer+Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasep12&theme=radical&hide_border=true" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasep12&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ## 💫 About Me
@@ -24,7 +33,7 @@
   </ul>
 </details>
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,docker,git" />
 </div>
