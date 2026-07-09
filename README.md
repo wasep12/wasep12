@@ -96,6 +96,10 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
   <a href="https://github.com/wasep12"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/luffy_new.gif?raw=true" alt="Luffy Anime GIF" style="width: 100%; max-width: 600px;" />
+</div>
+
 ## 🎬 Closing
 <div align="center" style="margin-top: 30px;">
   <p><i>“Koding itu alat, bukan tujuan. Let's build something extraordinary together.”</i></p>
