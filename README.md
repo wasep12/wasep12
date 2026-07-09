@@ -9,9 +9,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+Digital+Solutions&fontSize=40&animation=fadeIn" alt="Building Digital Solutions" style="width: 100%;" />
 </div>
 
-<!-- GIF One Piece -->
+<!-- GIF Rick and Morty -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBTBW/giphy.gif" alt="One Piece" style="width: 100%; max-width: 800px;" />
+  <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" alt="Rick and Morty" style="width: 100%; max-width: 800px;" />
 </div>
 
 ---
