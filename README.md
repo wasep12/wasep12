@@ -68,7 +68,7 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
 > "I'm going to be the King of the Pirates!" — *Monkey D. Luffy*
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/wasep12/wasep12/blob/main/assets/mugiwara.gif?raw=true" alt="Mugiwara Crew" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/mugiwara_small.gif?raw=true" alt="Mugiwara Crew" style="width: 100%; max-width: 600px;" />
 </div>
 
 <p align="center">
