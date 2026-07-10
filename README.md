@@ -32,6 +32,10 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
 
 *“Duduk dulu, mikir dulu. Koding itu alat, bukan tujuan.”*
 
+<div align="center">
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/github_qr.jpg?raw=true" alt="GitHub QR" style="width: 100%; max-width: 600px;" />
+</div>
+
 <details>
   <summary><b>More about me</b></summary>
   <ul>
