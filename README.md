@@ -21,6 +21,11 @@
 ---
 
 ## 💫 About Me
+
+<div align="center">
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/github_qr.jpg?raw=true" alt="GitHub QR" style="width: 100%; max-width: 600px;" />
+</div>
+
 Hi, I'm **Wasep Abdul Aziz**. I believe that technology is more than just syntax; it's a bridge to solve real-world problems. My passion lies in building digital foundations that are efficient, scalable, and human-centered.
 
 Currently, I'm obsessed with bridging the physical and digital world through **IoT integration** while polishing my craft in **Modern Web Development**. I thrive on turning complex business requirements into clean, structured, and performant code.
