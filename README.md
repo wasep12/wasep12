@@ -14,7 +14,7 @@
 
 <!-- GIF Section -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/wasep12/wasep12/blob/main/assets/luffy_header_small.gif?raw=true" alt="Luffy Header" style="width: 100%; max-width: 800px;" />
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/luffy_header.gif?raw=true" alt="Luffy Header" style="width: 100%; max-width: 800px;" />
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Additional GIF" style="width: 100%; max-width: 800px; margin-top: 10px;" />
 </div>
 
@@ -68,7 +68,7 @@ Currently, I'm obsessed with bridging the physical and digital world through **I
 > "I'm going to be the King of the Pirates!" — *Monkey D. Luffy*
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/wasep12/wasep12/blob/main/assets/mugiwara_small.gif?raw=true" alt="Mugiwara Crew" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/wasep12/wasep12/blob/main/assets/mugiwara.gif?raw=true" alt="Mugiwara Crew" style="width: 100%; max-width: 600px;" />
 </div>
 
 <p align="center">
